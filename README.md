@@ -1,5 +1,10 @@
 # AirWatch – Supervisor de Ambiente Sem Fio (ESP32 + FreeRTOS)
 
+
+**Antonio Mario Pio Cardoso Soares Frioli RM86639**
+**Lucas Bertini Alencar RM86920**
+**Pedro Galante Branco RM88992**
+
 Sistema desenvolvido e simulado no Wokwi que demonstra um caso de uso de tempo real com FreeRTOS: monitorar continuamente a rede Wi‑Fi “percebida” pelo dispositivo, conferir se ela pertence a uma lista de redes seguras (allowlist) e, ao detectar conexão/ambiente não autorizado, emitir alerta imediato (log e sinalização por LED).
 
 ## Objetivo do Case
